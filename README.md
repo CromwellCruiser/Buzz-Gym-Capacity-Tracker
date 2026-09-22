@@ -1,5 +1,5 @@
 # Buzz-Gym-Capacity-Tracker
-A small light widget that uses your login credentials to track the capacity of your local buzz gym. The widget changes colour in your system tray as capacity rises and falls, and surfaces a native Windows notification if it drops below a certain level.
+A small lightweight widget that uses your login credentials to track the occupancy of your local buzz gym. The widget changes colour in your system tray as occupancy rises and falls, and surfaces a native Windows notification if it drops below a certain level.
 
 How to use:
 1. At lines 14 and 15, input your username and password. Retain the quotation marks.
